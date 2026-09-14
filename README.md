@@ -91,7 +91,10 @@ The analysis can support inventory teams by helping them:
 ## 📂 Files
 
 * `dashboard/Inventory_Management_and_Stock_Optimization_Dashboard.xlsx` — Excel dashboard
-* `inventory1.jpg` `inventory2.jpg — Dashboard preview
+* Dashboard preview
+<img width="790" height="367" alt="image" src="https://github.com/user-attachments/assets/646c260b-b98d-4893-9e03-e7132c17ebd5" />
+<img width="785" height="372" alt="image" src="https://github.com/user-attachments/assets/23f91db8-bb03-42fd-8292-2b66ebdf50ce" />
+
 
 ## 📚 Dataset
 
